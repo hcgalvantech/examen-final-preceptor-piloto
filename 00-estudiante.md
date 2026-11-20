@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
+- **Apellido y nombre:** MMMM
 - **Carrera:** Tecnicatura Superior en Preceptoría
-- **Cohorte / turno:**
-- **Fecha:**
+- **Cohorte / turno:**MMMMMMM
+- **Fecha:**MMM
